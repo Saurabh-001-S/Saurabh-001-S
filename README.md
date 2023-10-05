@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Saurabh Singh Chauhan
-- [![An image of @saurabh001s's Holopin badges](https://holopin.me/saurabh001s)](https://holopin.io/@saurabh001s)
+[![An image of @saurabh001s's Holopin badges](https://holopin.me/saurabh001s)](https://holopin.io/@saurabh001s)
 - 👀 I’m interested in leraning new things.
-- 🌱 I’m currently learning Frontend Development
 - 💞️ I’m looking to collaborate on Development
 - 📫 How to reach me ssc103445@gmail.com
 -  Portfolio https://saurabh-001-s.github.io/portfolio/
